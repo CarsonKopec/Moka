@@ -77,9 +77,6 @@ Examples:
 version = "@LatestLTS"             # Resolve to JDK 21
 preset = "@preset:web-backend"     # Expand to default deps/features
 ```
-
-You can even add future support for `.moka.template`, `.moka.schema`, etc.
-
 ---
 
 ## ⚙️ Scripts (optional)
